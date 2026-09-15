@@ -1,0 +1,8 @@
+check,result
+Total raw rows,201000
+Total clean rows,200000
+Duplicates removed,1000
+Missing values after cleaning,0
+Invalid quantity after cleaning,0
+Invalid price after cleaning,0
+Invalid discount after cleaning,0
